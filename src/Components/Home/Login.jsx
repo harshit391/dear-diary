@@ -41,6 +41,7 @@ function Login() {
   },[]);
 
   return (
+    <div className='login-css'>
     <main className={isSignUpMode ? 'sign-up-mode' : ''}>
       <div className="box12">
         <div className="inner-box">
@@ -174,6 +175,7 @@ function Login() {
         </div>
       </div>
     </main>
+    </div>
   );
 }
 

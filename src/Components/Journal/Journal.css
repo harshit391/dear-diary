@@ -1,11 +1,8 @@
-*{
+.journal-css{
     font-family: 'Poppins';
-}
 
-body{
     margin: 0%;
     background-color : #8cc08c ;
-}
 
 .header{
     position: sticky;
@@ -161,7 +158,7 @@ a {
 }
 
 .container{
-    padding-top: 40px;
+    margin-left: 7rem;
     /* margin: 100px; */
     display:flex;
     /* flex-wrap:wrap;
@@ -222,4 +219,4 @@ a {
     left:0;
     box-sizing: border-box;
     padding:20px;
-}
+}}

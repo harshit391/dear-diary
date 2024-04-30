@@ -10,7 +10,7 @@ import './Journal.css'; // Import your CSS file here
 
 function Journal() {
   return (
-    <div>
+    <div className='journal-css'>
       <header className="header">
         <nav className="nav" style={{ justifyContent: 'center' }}>
           <div>
